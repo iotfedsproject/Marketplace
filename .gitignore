@@ -1,0 +1,25 @@
+*.class
+
+# Package Files #
+**/target/
+**/logs/
+*.jar
+*.war
+*.ear
+
+#IntelliJ files
+**/*.iml
+**/.idea/
+**/.gradle
+
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+/.idea/
